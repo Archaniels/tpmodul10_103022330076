@@ -34,3 +34,16 @@ C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\obj
 C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\obj\Debug\net8.0\tpmodul10_103022330076.pdb
 C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\obj\Debug\net8.0\tpmodul10_103022330076.genruntimeconfig.cache
 C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\obj\Debug\net8.0\ref\tpmodul10_103022330076.dll
+C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sxpix\Documents\~~~ CODES\Visual Studio 2022\tpmodul10_103022330076\obj\Debug\net8.0\tpmodul10_103022330076.sourcelink.json
