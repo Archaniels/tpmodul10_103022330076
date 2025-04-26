@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul10_103022330076\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49824D1D-644F-48FE-8315-79DDD1AC065C}|tpmodul10_103022330076.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul10_103022330076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49824D1D-644F-48FE-8315-79DDD1AC065C}|tpmodul10_103022330076.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49824D1D-644F-48FE-8315-79DDD1AC065C}|tpmodul10_103022330076.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul10_103022330076\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49824D1D-644F-48FE-8315-79DDD1AC065C}|tpmodul10_103022330076.csproj|solutionrelative:controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49824D1D-644F-48FE-8315-79DDD1AC065C}|tpmodul10_103022330076.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul10_103022330076\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49824D1D-644F-48FE-8315-79DDD1AC065C}|tpmodul10_103022330076.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49824D1D-644F-48FE-8315-79DDD1AC065C}|tpmodul10_103022330076.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul10_103022330076\\model\\datamahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49824D1D-644F-48FE-8315-79DDD1AC065C}|tpmodul10_103022330076.csproj|solutionrelative:model\\datamahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49824D1D-644F-48FE-8315-79DDD1AC065C}|tpmodul10_103022330076.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul10_103022330076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49824D1D-644F-48FE-8315-79DDD1AC065C}|tpmodul10_103022330076.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +30,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul10_103022330076\\Controllers\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MahasiswaController.cs",
+              "ToolTip": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul10_103022330076\\Controllers\\MahasiswaController.cs",
+              "RelativeToolTip": "Controllers\\MahasiswaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:40:00.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul10_103022330076\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul10_103022330076\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DataMahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul10_103022330076\\Model\\DataMahasiswa.cs",
+              "RelativeDocumentMoniker": "Model\\DataMahasiswa.cs",
+              "ToolTip": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul10_103022330076\\Model\\DataMahasiswa.cs",
+              "RelativeToolTip": "Model\\DataMahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T14:14:44.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul10_103022330076\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul10_103022330076\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T13:03:50.648Z",
               "EditorCaption": ""
